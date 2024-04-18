@@ -465,7 +465,7 @@ h3 {
 
     .frame3 {
         width: 100%;
-        height: 23rem;
+        height: 24.5rem;
         display: flex;
         margin: 2.5rem 0;
         flex-direction: column-reverse;
@@ -734,7 +734,7 @@ h3 {
         width: 12.3%;
         height: 4.5rem;
         top: 8.8rem;
-        left: 19.8rem;
+        left: 19.67rem;
         position: relative;
     }
 
