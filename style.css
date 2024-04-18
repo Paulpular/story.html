@@ -537,6 +537,10 @@ h3 {
         height: 183.46rem;
     }
 
+    .Groomsmen-container, .Bridesmaids-container {
+        width: 45%;
+    }
+
     .frame4-images {
         flex-direction: column;
     }
