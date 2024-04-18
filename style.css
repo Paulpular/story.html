@@ -383,19 +383,19 @@ h3 {
     
     h1 {
         color: #000;
-        font-size: 2.4rem;
+        font-size: 2.8rem;
         font-weight: 400;
     }
     
     .paragraph4 {
         color: #231F20;
-        font-size: 1rem;
+        font-size: 1.12rem;
         line-height: 140%;
     }
 
     .image2-frame {
         width: 100%;
-        height: 25rem;
+        height: 27rem;
         display: flex;
     }
     
@@ -409,7 +409,7 @@ h3 {
     .image3 {
         width: 45%;
         height: 13.35rem;
-        top: 28.9rem;
+        top: 29.1rem;
         left: 12.6rem;
         position: absolute;
     }
@@ -489,7 +489,7 @@ h3 {
         width: 12.5%;
         height: 4.5rem;
         top: 9.2rem;
-        left: 21.7rem;
+        left: 21.6rem;
         position: relative;
     }
 
@@ -504,7 +504,7 @@ h3 {
     }
 
     .paragraph7 {
-        font-size: 1rem;
+        font-size: 1.01rem;
     }
 
     .image4 {
