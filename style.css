@@ -327,7 +327,7 @@ h3 {
         padding: 1rem 1.25rem;
         justify-content: space-between;
         align-items: center;
-        align-self: stretch;
+
     }
     
     .left-side {
@@ -496,7 +496,6 @@ h3 {
     .inside-frame3-left {
         width: 100%;
         height: 13.7rem;
-        flex-shrink: 0;
     }
 
     h3 {
@@ -505,6 +504,251 @@ h3 {
 
     .paragraph7 {
         font-size: 1.01rem;
+    }
+
+    .image4 {
+        width: 100%;
+        margin: 0;
+        position: relative;
+    }
+
+    .frame4 {
+        width: 100%;
+        height: 50.5rem;
+        background: #97917A;
+    }
+    
+    .flower2 {
+        display: none;
+    }
+
+    .media-screen-flower {
+        width: 22%;
+        height: 2.73rem;
+        left: 21%;
+        position: relative;
+        display: block;
+    }
+    
+    .image6 {
+        width: 100%;
+    }
+
+    .frame4 {
+        height: 192.5rem;
+    }
+
+    .inside-frame4 {
+        height: 183.46rem;
+    }
+
+    .Groomsmen-container, .Bridesmaids-container {
+        width: 45%;
+    }
+
+    .frame4-images {
+        flex-direction: column;
+    }
+
+    .third-h6 {
+        font-size: 2rem;
+    }
+
+    .footer-frame {
+        height: 6.37rem;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    body {
+        width: 100%;
+        font-family: Montaga;
+    }
+
+    header {
+        width: 100%;
+        height: 3.56rem;
+        display: flex;
+        padding: 1rem 1.25rem;
+        justify-content: space-between;
+        align-items: center;
+        
+    }
+    
+    .left-side {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+    }
+    
+    .image1 {
+        width: 20%;
+        height: 1rem;
+    }
+    
+    .paragraph1 {
+        color: #C6754D;
+        font-size: 1.125rem;
+        line-height: 1.57rem;
+    }
+
+    .right-side {
+        display: none;
+    }
+
+    .right-side-image {
+        width: 6.2%;
+        height: 1.1rem;
+        display: block;
+    }
+
+    .frame1 {
+        width: 100%;
+        height: 41.5rem;
+        background: #F0CCBB;
+        padding: 3rem 1rem;
+    }
+
+    .inside-frame1 {
+        display: flex;
+        width: 100%;
+        height: 35.8rem;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0;
+        gap: 2rem;
+    }
+    
+    .h1-p-frame {
+        width: 100%;
+        height: 8.8rem;
+        gap: 1.2rem;
+    }
+    
+    h1 {
+        color: #000;
+        font-size: 2.5rem;
+        font-weight: 400;
+    }
+    
+    .paragraph4 {
+        color: #231F20;
+        font-size: 1.01rem;
+        line-height: 140%;
+    }
+
+    .image2-frame {
+        width: 100%;
+        height: 27rem;
+        display: flex;
+    }
+    
+    .image2 {
+        width: 77.5%;
+        height: 23.69rem;
+        margin: 0;
+        position: relative;
+    }
+    
+    .image3 {
+        width: 45%;
+        height: 13.35rem;
+        top: 29.1rem;
+        left: 11.8rem;
+        position: absolute;
+    }
+
+    .frame2 {
+        width: 100%;
+        height: 25rem;
+        display: flex;
+        flex-direction: column;
+        padding: 2em 1.25em;
+        align-items: flex-start;
+        gap: 1.1rem;
+        color: #231F20;
+    }
+    
+    .inside-frame2-left, .inside-frame2-right {
+        width: 100%;
+        height: 12.56rem;
+        display: contents;
+        flex-direction: inherit;
+        align-items: flex-start;
+        gap: 1rem;
+        flex: 1 0 0;
+    }
+    
+    h2 {
+        font-size: 1.6rem;
+        font-weight: 400;
+        line-height: 100%;
+    }
+    
+    .paragraph5, .paragraph6 {
+        font-size: 0.93rem;
+        line-height: 160%;
+    }
+    
+    .span {
+        opacity: 0.8;
+        color: #440404;
+        font-size: 1.08rem;
+        line-height: 160%;
+    }
+
+    .image-after-frame-container {
+        width: 100%;
+        height: 17.1rem;
+    }
+
+    .image-after-frame2 {
+        width: 100%;
+        display: block;
+    }
+
+    .frame3 {
+        width: 100%;
+        height: 25.1rem;
+        display: flex;
+        margin: 2.5rem 0;
+        flex-direction: column-reverse;
+    }
+
+    .inside-frame3-right {
+        display: flex;
+        width: 93%;
+        height: 14rem;
+        padding: 1.03rem 1rem;
+        top: 10%;
+        left: 4%;
+        justify-content: center;
+        flex-direction: column;
+        gap: 1.25rem;
+        background: #C6754D;
+        position: relative;
+    }
+
+    .flower1 {
+        width: 12.5%;
+        height: 4.5rem;
+        top: 9.1rem;
+        left: 20.3rem;
+        position: relative;
+    }
+
+    .inside-frame3-left {
+        width: 100%;
+        height: 13rem;
+    }
+
+    h3 {
+        font-size: 1.3rem;
+    }
+
+    .paragraph7 {
+        font-size: 0.93rem;
     }
 
     .image4 {
