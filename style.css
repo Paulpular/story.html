@@ -416,7 +416,7 @@ h3 {
 
     .frame2 {
         width: 100%;
-        height: 31.25rem;
+        height: 30rem;
         display: flex;
         flex-direction: column;
         padding: 2em 1.25em;
@@ -428,30 +428,28 @@ h3 {
     .inside-frame2-left, .inside-frame2-right {
         width: 100%;
         height: 12.56rem;
-        display: flex;
-        flex-direction: column;
+        display: contents;
+        flex-direction: inherit;
         align-items: flex-start;
         gap: 1rem;
         flex: 1 0 0;
     }
     
     h2 {
-        font-size: 2rem;
+        font-size: 1.5rem;
         font-weight: 400;
         line-height: 100%;
     }
     
     .paragraph5, .paragraph6 {
-        font-size: 1.154rem;
-        font-weight: 400;
+        font-size: 1rem;
         line-height: 160%;
     }
     
-    span {
+    .span {
         opacity: 0.8;
         color: #440404;
-        font-size: 1.4rem;
-        font-weight: 400;
+        font-size: 1.15rem;
         line-height: 160%;
     }
 
