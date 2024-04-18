@@ -344,7 +344,6 @@ h3 {
     .paragraph1 {
         color: #C6754D;
         font-size: 1.125rem;
-        font-weight: 400;
         line-height: 1.57rem;
     }
 
@@ -362,17 +361,13 @@ h3 {
         width: 100%;
         height: 41.5rem;
         background: #F0CCBB;
-        display: flex;
         padding: 3rem 1rem;
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 10px;
     }
 
     .inside-frame1 {
         display: flex;
         width: 100%;
-        height: 36rem;
+        height: 35.8rem;
         flex-direction: column;
         justify-content: space-between;
         align-items: center;
@@ -382,35 +377,32 @@ h3 {
     
     .h1-p-frame {
         width: 100%;
-        height: 7.8rem;
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 16px;
+        height: 8.8rem;
+        gap: 1.2rem;
     }
     
     h1 {
         color: #000;
         font-size: 3rem;
         font-weight: 400;
-        line-height: normal;
     }
     
     .paragraph4 {
         color: #231F20;
         font-size: 1.2rem;
-        font-weight: 400;
         line-height: 140%;
     }
 
     .image2-frame {
         width: 100%;
+        height: 25rem;
         display: flex;
     }
     
     .image2 {
         width: 77.5%;
         height: 23.69rem;
+        margin: 0;
         position: relative;
     }
     
