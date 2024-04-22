@@ -45,11 +45,11 @@ header {
     color: #000;
     font-size: 1.1rem;
     line-height: 140%;
+    text-decoration: none;
 }
 
 .paragraph3 {
     color: #C6754D;
-    text-decoration: none;
 }
 
 .right-side-image {
